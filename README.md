@@ -1,12 +1,6 @@
-# 🍔 Overeating Plus
+#Overeating Plus
 
 <div align="center">
-
-[![Modrinth](https://img.shields.io/modrinth/dt/overatingplus?color=00AF5C&label=Modrinth&style=for-the-badge&logo=modrinth)](https://modrinth.com/mod/overatingplus)
-[![CurseForge](https://img.shields.io/curseforge/dt/XXXXXX?color=F16436&label=CurseForge&style=for-the-badge&logo=curseforge)](https://www.curseforge.com/minecraft/mc-mods/overatingplus)
-[![Discord](https://img.shields.io/discord/XXXXXX?color=5865F2&label=Discord&style=for-the-badge&logo=discord)](https://discord.gg/2sqxxpmYu)
-[![Patreon](https://img.shields.io/badge/Patreon-Support-FF424D?style=for-the-badge&logo=patreon)](https://www.patreon.com/c/MakCane)
-[![Boosty](https://img.shields.io/badge/Boosty-Support-FFA500?style=for-the-badge)](https://boosty.to/makcane)
 
 **Minecraft 1.21.1** | **NeoForge 21.1.230+**
 
@@ -18,11 +12,11 @@
 
 ---
 
-## 📖 Description
+##Description
 
 **Overeating Plus** adds an **oversaturation** system — a new food track that activates when your hunger and saturation are full. Eat more to gain powerful bonuses, but beware of the consequences!
 
-### ✨ Key Features
+###Key Features
 
 - 🍔 **Oversaturation System** — Extra food points when hunger is full
 - 🛡️ **Fat Armor** — Additional hearts that absorb damage
@@ -35,7 +29,7 @@
 
 ---
 
-## 🎮 Mechanics
+##Mechanics
 
 ### Oversaturation
 
@@ -65,22 +59,12 @@ When your hunger bar is full (20/20) and saturation is above the threshold, eati
 
 ---
 
-## 📦 Installation
+##Installation
 
 1. Install [NeoForge](https://neoforged.net/) for Minecraft 1.21.1
 2. Download the latest `.jar` from [Modrinth](https://modrinth.com/mod/overatingplus) or [CurseForge](https://www.curseforge.com/minecraft/mc-mods/overatingplus)
 3. Place the file in your `mods` folder
 4. Launch the game!
-
-### Compatibility
-
-| Mod | Status |
-|-----|--------|
-| Farmer's Delight | ✅ Compatible |
-| Vanilla Delight | ✅ Compatible |
-| Wizardry Delight | ✅ Compatible |
-
----
 
 ## 📚 Documentation
 
@@ -119,7 +103,6 @@ You may not:
 ## 🔗 Links
 
 - [Modrinth](https://modrinth.com/mod/overatingplus)
-- [CurseForge](https://www.curseforge.com/minecraft/mc-mods/overatingplus)
 - [Discord Server](https://discord.gg/2sqxxpmYu)
 - [GitHub Issues](https://github.com/MakCane/OvereatingPlus/issues)
 
