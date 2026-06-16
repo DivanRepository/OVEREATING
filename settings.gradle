@@ -1,0 +1,35 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        maven { url = uri('https://maven.neoforged.net/releases') }
+    }
+}
+
+plugins {
+    id 'org.gradle.toolchains.foojay-resolver-convention' version '1.0.0'
+}
+
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.PREFER_PROJECT)
+    repositories {
+        maven { url = uri("${settingsDir}/local-maven") }
+        mavenCentral()
+        maven { url = uri('https://maven.neoforged.net/releases') }
+        // Prefer mirror first — avoids TLS handshake issues with libraries.minecraft.net on some networks
+        maven {
+            name = 'MinecraftLibrariesMirror'
+            url = uri('https://bmclapi2.bangbang93.com/maven/')
+            content {
+                includeGroupByRegex('com\\.mojang(\\..*)?')
+            }
+        }
+        maven {
+            name = 'MinecraftLibraries'
+            url = uri('https://libraries.minecraft.net')
+            content {
+                excludeGroup('org.lwjgl')
+                excludeGroup('com.mojang')
+            }
+        }
+    }
+}

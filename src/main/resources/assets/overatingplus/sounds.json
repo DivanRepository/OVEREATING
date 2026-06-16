@@ -1,0 +1,14 @@
+{
+  "scales_weigh": {
+    "subtitle": "subtitle.overatingplus.scales_weigh",
+    "sounds": [
+      "overatingplus:scales_weigh"
+    ]
+  },
+  "shockwave": {
+    "subtitle": "subtitle.overatingplus.shockwave",
+    "sounds": [
+      "overatingplus:shockwave"
+    ]
+  }
+}

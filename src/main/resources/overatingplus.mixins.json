@@ -1,0 +1,25 @@
+{
+  "required": true,
+  "package": "com.overatingplus.mixin",
+  "plugin": "com.overatingplus.mixin.OveratingPlusMixinPlugin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "PlayerCanEatMixin",
+    "FoodDataMixin",
+    "CakeBlockMixin",
+    "compat.FarmersDelightPieBlockMixin",
+    "compat.VanillaDelightCakeBlockMixin",
+    "compat.VanillaDelightPieBlockMixin",
+    "compat.WDPieBlockMixin",
+    "LivingEntitySlimeBounceMixin",
+    "LivingEntityDimensionsMixin"
+  ],
+  "client": [
+    "client.PlayerModelMixin",
+    "client.CameraMixin",
+    "client.GuiMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
