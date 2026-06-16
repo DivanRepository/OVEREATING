@@ -52,7 +52,7 @@ When your hunger bar is full (20/20) and saturation is above the threshold, eati
 
 | Ability | Key | Cost | Description |
 |---------|-----|------|-------------|
-| Slime Bounce | Toggle: `G` | 5 points/bounce | Bounce off blocks and walls |
+| Slime Bounce | Toggle: `G` | 5 points/bounce | Bounce off blocks |
 | Shockwave | Toggle: `H` | 5 points/trigger | AoE damage on high falls |
 
 ---
