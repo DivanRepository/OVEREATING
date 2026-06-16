@@ -1,4 +1,4 @@
-#Overeating Plus
+**Overeating Plus**
 
 <div align="center">
 
@@ -12,11 +12,11 @@
 
 ---
 
-##Description
+**Description**
 
 **Overeating Plus** adds an **oversaturation** system — a new food track that activates when your hunger and saturation are full. Eat more to gain powerful bonuses, but beware of the consequences!
 
-###Key Features
+**Key Features**
 
 - 🍔 **Oversaturation System** — Extra food points when hunger is full
 - 🛡️ **Fat Armor** — Additional hearts that absorb damage
@@ -29,9 +29,9 @@
 
 ---
 
-##Mechanics
+**Mechanics**
 
-### Oversaturation
+**Oversaturation**
 
 When your hunger bar is full (20/20) and saturation is above the threshold, eating food grants **oversaturation points** instead of being wasted.
 
@@ -41,7 +41,7 @@ When your hunger bar is full (20/20) and saturation is above the threshold, eati
 | Max stacks | 40 (configurable) |
 | Max points | 800 |
 
-### Stacks & Bonuses
+**Stacks & Bonuses**
 
 | Stack | Effect |
 |-------|--------|
@@ -50,7 +50,7 @@ When your hunger bar is full (20/20) and saturation is above the threshold, eati
 | 25+ | **Shockwave** ability unlocked |
 | All | Fat armor, character growth, increased reach |
 
-### Abilities
+**Abilities**
 
 | Ability | Key | Cost | Description |
 |---------|-----|------|-------------|
@@ -59,14 +59,14 @@ When your hunger bar is full (20/20) and saturation is above the threshold, eati
 
 ---
 
-##Installation
+**Installation**
 
 1. Install [NeoForge](https://neoforged.net/) for Minecraft 1.21.1
 2. Download the latest `.jar` from [Modrinth](https://modrinth.com/mod/overatingplus) or [CurseForge](https://www.curseforge.com/minecraft/mc-mods/overatingplus)
 3. Place the file in your `mods` folder
 4. Launch the game!
 
-## 📚 Documentation
+**📚 Documentation**
 
 - [📘 Wiki](docs/en/wiki.md)
 - [🔧 Configuration Guide](docs/en/config.md)
@@ -75,7 +75,7 @@ When your hunger bar is full (20/20) and saturation is above the threshold, eati
 
 ---
 
-## 💝 Support the Project
+**💝 Support the Project**
 
 If you enjoy this mod, consider supporting development:
 
@@ -84,7 +84,7 @@ If you enjoy this mod, consider supporting development:
 
 ---
 
-## 📜 License
+**📜 License**
 
 This project is licensed under **All Rights Reserved**.
 
@@ -100,7 +100,7 @@ You may not:
 
 ---
 
-## 🔗 Links
+**🔗 Links**
 
 - [Modrinth](https://modrinth.com/mod/overatingplus)
 - [Discord Server](https://discord.gg/2sqxxpmYu)
