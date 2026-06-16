@@ -6,8 +6,6 @@
 
 *Add a new layer of food mechanics with oversaturation, fat armor, and unique abilities!*
 
-[🇬🇧 English](docs/en/README.md) | [🇷🇺 Русский](docs/ru/README.md)
-
 </div>
 
 ---
