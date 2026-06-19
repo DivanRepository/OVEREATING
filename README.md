@@ -66,10 +66,10 @@ When your hunger bar is full (20/20) and saturation is above the threshold, eati
 
 **📚 Documentation**
 
-- [📘 Wiki](docs/en/wiki.md)
+- [📘 Wiki](docs/wiki.md)
 - [🔧 Configuration Guide](docs/en/config.md)
 - [🍽️ Food Variety System](docs/en/food-variety.md)
-- [❓ FAQ](docs/en/faq.md)
+- [❓ FAQ](docs/faq.md)
 
 ---
 
