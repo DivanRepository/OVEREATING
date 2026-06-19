@@ -67,8 +67,7 @@ When your hunger bar is full (20/20) and saturation is above the threshold, eati
 **📚 Documentation**
 
 - [📘 Wiki](docs/wiki.md)
-- [🔧 Configuration Guide](docs/en/config.md)
-- [🍽️ Food Variety System](docs/en/food-variety.md)
+- [🔧 Configuration Guide](docs/config.md)
 - [❓ FAQ](docs/faq.md)
 
 ---
@@ -77,7 +76,6 @@ When your hunger bar is full (20/20) and saturation is above the threshold, eati
 
 If you enjoy this mod, consider supporting development:
 
-[![Patreon](https://img.shields.io/badge/Patreon-Support-FF424D?style=for-the-badge&logo=patreon)](https://www.patreon.com/c/MakCane)
 [![Boosty](https://img.shields.io/badge/Boosty-Support-FFA500?style=for-the-badge)](https://boosty.to/makcane)
 
 ---
@@ -101,7 +99,6 @@ You may not:
 **🔗 Links**
 
 - [Modrinth](https://modrinth.com/mod/overatingplus)
-- [Discord Server](https://discord.gg/2sqxxpmYu)
 - [GitHub Issues](https://github.com/MakCane/OvereatingPlus/issues)
 
 ---
